@@ -3,27 +3,27 @@ const ap = new APlayer({
     audio: [
         {
             name: 'Eutopia',
-            artist: 'Yooshic ',
-            url: 'url1.mp3',
-            cover: 'cover1.jpg',
+            artist: 'Yoohsic Roomz',
+            url: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/musics/1.mp3',
+            cover: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/images/3.jpg',
         },
         {
-            name: 'name2',
-            artist: 'artist2',
-            url: 'url2.mp3',
-            cover: 'cover2.jpg',
+            name: 'Town of Windmill',
+            artist: 'a_hisa',
+            url: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/musics/2.mp3',
+            cover: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/images/2.jpg',
         },
         {
-            name: 'name2',
-            artist: 'artist2',
-            url: 'url2.mp3',
-            cover: 'cover2.jpg',
+            name: 'Hiro',
+            artist: 'Sight of Wonders',
+            url: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/musics/3.mp3',
+            cover: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/images/3.jpg',
         },
         {
             name: 'Komorebi',
             artist: 'm-taku',
-            url: 'url2.mp3',
-            cover: 'http://p2.music.126.net/YuQQw6jiLaxQ7oa1-wGJew==/3247957350394210.jpg',
+            url: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/musics/4.mp3',
+            cover: 'https://cdn.staticaly.com/gh/SinzMise/SinzMise-Music/images/4.jpg',
         },
     ]
 });
